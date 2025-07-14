@@ -1,0 +1,39 @@
+
+@theme "/home/ml/.local/share/rofi/themes/rounded-nord-dark.rasi"
+
+/* ───────── 样式覆盖 ───────── */
+* {
+    font: "JetBrainsMono Nerd Font 14, Noto Sans CJK SC 14, Noto Color Emoji 14";
+}
+
+element {
+    padding:       6px 10px;
+    border-radius: 6px;
+}
+
+entry {
+    padding:     6px 10px;
+    placeholder: "Type to search…";
+}
+
+scrollbar {
+    width:   5px;
+    padding: 0px;
+}
+
+/* ───────── 行为配置 ───────── */
+configuration {
+    show-icons:          true;
+    modi:                "drun,run,ssh,window";
+    combi-modi:          "window,drun";
+
+    display-drun:        " ";
+
+    matching:            "fuzzy";
+    sort:                true;
+    cycle:               true;
+
+    drun-display-format: "{icon} {name}";
+    dpi:                 0;
+}
+

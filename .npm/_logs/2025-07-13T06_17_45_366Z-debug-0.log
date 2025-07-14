@@ -1,0 +1,18 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@11.4.2
+2 info using node@v24.4.0
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/ml/.config/nvim/.npmrc
+5 silly config load:file:/home/ml/.npmrc
+6 silly config load:file:/etc/npmrc
+7 verbose title npm version
+8 verbose argv "version" "--json"
+9 verbose logfile logs-max:10 dir:/home/ml/.npm/_logs/2025-07-13T06_17_45_366Z-
+10 verbose logfile /home/ml/.npm/_logs/2025-07-13T06_17_45_366Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 verbose cwd /home/ml/.config/nvim
+13 verbose os Linux 6.15.5-arch1-1
+14 verbose node v24.4.0
+15 verbose npm  v11.4.2
+16 verbose exit 0
+17 info ok

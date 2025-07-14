@@ -1,0 +1,34 @@
+
+{
+  "logo": { "type": "auto" },
+
+  "modules": [
+    /* ====================== SYSTEM ====================== */
+    { "type": "custom", "format": "󰋼  SYSTEM" },
+    { "key": "   OS           ", "keyColor": "#ed8796", "type": "os" },
+    { "key": " 󰌢  Hostname     ", "keyColor": "#a6da95", "type": "host" },
+    { "key": "   Kernel       ", "keyColor": "#c6a0f6", "type": "kernel" },
+    { "key": "   Uptime       ", "keyColor": "#f5a97f", "type": "uptime" },
+
+    /* ================== UI & DISPLAY ==================== */
+    { "type": "custom", "format": "  UI & DISPLAY" },
+    { "key": "   Resolution   ", "keyColor": "#8aadf4", "type": "display",
+      "compactType": "original-with-refresh-rate" },
+    { "key": " 󰍹  WM           ", "keyColor": "#91d7e3", "type": "wm" },
+    { "key": "   Shell        ", "keyColor": "#a6da95", "type": "shell" },
+    { "key": "   Terminal     ", "keyColor": "#ed8796", "type": "terminal" },
+
+    /* ============= HARDWARE & POWER ==================== */
+    { "type": "custom", "format": "  HARDWARE & POWER" },
+    { "key": "   CPU          ", "keyColor": "#f5a97f", "type": "cpu" },
+    { "key": " 󰍛  GPU          ", "keyColor": "#8aadf4", "type": "gpu" },
+    { "key": "   RAM          ", "keyColor": "#c6a0f6", "type": "memory" },
+    { "key": "   Disk         ", "keyColor": "#ed8796", "type": "disk" },
+    { "key": "   Battery      ", "keyColor": "#a6da95", "type": "battery" },
+
+    /* ==================== COLOR BAR ===================== */
+    { "type": "custom", "format": " " },          // 占 1 行，补齐行数
+    { "type": "colors", "symbol": "circle" }      // 颜色条放最底
+  ]
+}
+

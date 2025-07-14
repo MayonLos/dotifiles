@@ -1,0 +1,831 @@
+2025-06-07T20:02:50 exception: Failed to open "/home/ml/.config/mpd/state": No such file or directory
+2025-06-07T20:52:16 update: added /燕无歇.MP3
+2025-06-07T20:52:16 update: added /刘珂矣、赵允哲 - 半壶纱 (0.8x) (DJ版).mp3
+2025-06-07T20:52:16 update: added /DJ阿鹏 - 精卫 (remix).mp3
+2025-06-07T20:52:16 update: added /DJ嗨嗨嗨 - 唐人恋曲.mp3
+2025-06-07T20:52:16 update: added /琪大妈 - 游山恋 (DJlucky小阳).mp3
+2025-06-07T20:52:16 update: added /苏熠鸣 - 弱水三千 (0.8x｜DJ苏熠鸣版).mp3
+2025-06-07T20:52:16 update: added /费戚戚 - 风催雨.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+2025-06-07T20:52:16 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+[src/libmpg123/parse.c:guess_freeformat_framesize():744] error: Cannot look for freeformat frame size with non-seekable and non-buffered stream!
+2025-06-07T20:52:16 update: added /游京（dj×0.9降调）｜“我走在长街中，听戏子唱京城”.mp3
+2025-06-07T20:52:16 update: added /浅影阿 - 探故知 (超梦幻DJ版).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+2025-06-07T20:59:57 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-06-07T20:59:57 mad: input does not appear to be a mp3 bit stream
+2025-06-07T21:02:55 update: added /不死城 - 小魂.mp3
+2025-06-07T21:02:55 update: added /冠玉 - 叶里.mp3
+2025-06-07T21:02:55 update: added /云水逢 - 玄觞、南瑾天.mp3
+2025-06-07T21:02:55 update: added /何必诗债换酒钱 - Winky诗、佑可猫、丁丁RaJor、迟意、流仙、弹棉花的GG.mp3
+2025-06-07T21:02:55 update: added /中华美食颂 - Tacke竹桑、以冬、云の泣、祈Inory、晴愔.mp3
+2025-06-07T21:02:55 update: added /乌衣巷 - Smile_小千.mp3
+2025-06-07T21:02:55 update: added /倦世间 - 蔡翊昇、萧忆情Alex.mp3
+2025-06-07T21:02:55 update: added /何日重到苏澜桥 - 泠鸢yousa.mp3
+2025-06-07T21:02:55 update: added /倾尽天下 - 河图.mp3
+2025-06-07T21:02:55 update: added /刀剑无梦 - (倚天屠龙记手游周年庆主题曲) - 玄觞、特曼.mp3
+2025-06-07T21:02:55 update: added /三生叹 - 慕寒、胡莎莎.mp3
+2025-06-07T21:02:55 update: added /三生同归（剧情版） - 吾恩、仇仇.mp3
+2025-06-07T21:02:55 update: added /东流水 - 燕池.mp3
+2025-06-07T21:02:55 update: added /三月雨 - 洛天依Official.mp3
+2025-06-07T21:02:55 update: added /兰若词 - 小爱的妈.mp3
+2025-06-07T21:02:55 update: added /东流 - 绯村柯北、灰老板.mp3
+2025-06-07T21:02:55 update: added /丹青客 - HITA、小曲儿.mp3
+2025-06-07T21:02:55 update: added /何生枷锁 - 洪尘.mp3
+2025-06-07T21:02:55 update: added /业火苍云歌(纯歌版) - 音频怪物.mp3
+2025-06-07T21:02:55 update: added /凰鸣与共 - 流浪的蛙蛙、慕斯の小乖.mp3
+2025-06-07T21:02:55 update: added /仙侠世界 - 李常超 (Lao乾妈)、音频怪物、冥月、哦漏、萧忆情Alex、双笙（陈元汐）、蔡翊昇、肥皂菌丨珉珉的猫咪丨.mp3
+2025-06-07T21:02:55 update: added /何以清尘 - 慕寒.mp3
+2025-06-07T21:02:55 update: added /一寒辞 - 乐正绫、音阙诗听.mp3
+2025-06-07T21:02:55 update: added /一梦浮生 — 天涯明月刀OL群像 - 彦Jans、莲琊、HITA、江南诚、龙小葵、冬子、重小烟.mp3
+2025-06-07T21:02:55 update: added /上元姑娘 - 彦Jans、洛绯烟.mp3
+2025-06-07T21:02:55 update: added /一首想不通的古风 - 玄觞、蔡翊昇、米糖音乐.mp3
+2025-06-07T21:02:55 update: added /倾君沧溟恨(纯歌版) - 慕寒.mp3
+2025-06-07T21:03:01 update: added /初心共老 - 慕斯の小乖.mp3
+2025-06-07T21:03:18 update: added /初见便是永远 - Smile_小千.mp3
+2025-06-07T21:03:25 player: played "游京（dj×0.9降调）｜“我走在长街中，听戏子唱京城”.mp3"
+2025-06-07T21:03:41 update: added /初雪 - 排骨教主.mp3
+2025-06-07T21:04:04 update: added /别赋 - 慕寒.mp3
+2025-06-07T21:04:36 update: added /刹那芳华曲(圆满版) - 小爱的妈.mp3
+2025-06-07T21:05:08 update: added /剑三群像•山河同誓 - 顾时笙、少年霜、上古呐（唐琳琳）、南偿、子樂tom、是惑惑呀、神小锦Hsu、兔裹煎蛋卷、混沌、山.mp3
+2025-06-07T21:05:58 update: added /剑饮山河•剧情版 - 冬子、三无MarBlue、一君、玉璇玑、玄觞、炽天使、祝贺、双笙（陈元...汐、息九泱、无痕、青泉.mp3
+2025-06-07T21:06:45 update: added /北凉歌【雪中悍刀行】 - 鲁四月.mp3
+2025-06-07T21:07:29 update: added /十年一晌 - 慕寒.mp3
+2025-06-07T21:08:08 update: added /十里春风醉江南 - 竹庭、橙七、嫦綰、鸣吾.mp3
+2025-06-07T21:08:45 update: added /南柯梦 - 泥鳅Niko.mp3
+2025-06-07T21:09:32 update: added /君临天下 - 王朝.mp3
+2025-06-07T21:09:32 update: added /又雪 - 五色石南叶、小千.mp3
+2025-06-07T21:09:32 update: added /双人行 - 西二.mp3
+2025-06-07T21:09:32 update: added /危年不祈——记小说《故千秋》纪长渊 - 封茗囧菌.mp3
+2025-06-07T21:09:32 update: added /【取经计划·原创】新·九九八十一（官方优化版） - 泠鸢yousa.mp3
+2025-06-07T21:09:32 update: added /历书·乌衣 - Mario.mp3
+2025-06-07T21:09:45 update: added /咫尺相思 古剑奇谭同人原创 - 小曲儿、Walker、Aki阿杰、音频怪物、HITA、梦岚、富贵哥、小爱的妈、完美仙剑、.mp3
+2025-06-07T21:09:57 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:09:57 update: added /喵万岁-橙光《如何征服心机喵》主题曲 - 橙光音乐、蔡翊昇.mp3
+2025-06-07T21:10:11 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:10:11 update: added /四时令 - Smile_小千、五色石南叶、慕寒、朱强.mp3
+2025-06-07T21:10:21 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:10:21 update: added /墨宝 古龙群侠传 - 河图.mp3
+2025-06-07T21:10:29 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:10:42 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:10:42 update: added /夜中笺·无题 - 卡修Rui.mp3
+2025-06-07T21:10:53 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:11:06 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:11:06 update: added /大梦 - 小曲儿.mp3
+2025-06-07T21:11:17 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:11:30 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:11:30 update: added /大荒往事 - Winky诗.mp3
+2025-06-07T21:11:45 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:11:57 update: added /天地缓缓(纯阳) - 伦桑.mp3
+2025-06-07T21:11:57 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:12:05 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:12:21 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:12:21 update: added /天局 - 小曲儿.mp3
+2025-06-07T21:12:27 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:12:27 update: added /如玉如歌 - 东篱.mp3
+2025-06-07T21:12:35 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:13:58 update: added /对弈 - 萧忆情、西瓜JUN、小坠、伦桑、妖扬、人衣大人、吾恩.mp3
+2025-06-07T21:13:58 update: added /小城谣 - 胡碧乔.mp3
+2025-06-07T21:13:58 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:13:58 update: added /山有木兮-橙光《人鱼传说之长生烛》主题曲 - 伦桑、橙光音乐.mp3
+2025-06-07T21:13:58 update: added /徽墨说 - 萧忆情Alex.mp3
+2025-06-07T21:13:58 update: added /「将进酒」 - 佑可猫、DMYoung.mp3
+2025-06-07T21:13:58 update: added /异世谣·万世芬芳录 - 慕寒.mp3
+2025-06-07T21:13:58 update: added /少年熬至老 - 少恭、刘兆伦.mp3
+2025-06-07T21:13:58 update: added /明月舟 - 司夏、慕寒.mp3
+2025-06-07T21:13:58 update: added /将卿 - 苏玮.mp3
+2025-06-07T21:13:58 update: added /循香阡陌 - 清黛半夏、落樱风.mp3
+2025-06-07T21:13:58 update: added /归一 - 泛音堂、吾恩、喵☆酱、小坠.mp3
+2025-06-07T21:13:58 update: added /山水画意 - 慕寒.mp3
+2025-06-07T21:13:58 update: added /巷雨梨花 - 涵昱.mp3
+2025-06-07T21:13:58 update: added /故人不散 - 醉雪、纱朵.mp3
+2025-06-07T21:13:58 update: added /山鬼 - Winky诗.mp3
+2025-06-07T21:13:58 update: added /无故之秋 - 卡修Rui.mp3
+2025-06-07T21:13:58 update: added /明月天涯 - 五音Jw.mp3
+2025-06-07T21:13:58 update: added /幸为天下客 - 萧忆情Alex、满汉全席.mp3
+2025-06-07T21:13:58 update: added /御剑天涯（《御剑情缘》周年主题曲） - 满汉全席.mp3
+2025-06-07T21:13:58 update: added /故梦 - 橙翼.mp3
+2025-06-07T21:13:58 update: added /妖怪町奇谭 - 平纱落雁音乐团队、伦桑、小曲儿.mp3
+2025-06-07T21:13:58 update: added /旧时风月 - 安神、司夏.mp3
+2025-06-07T21:13:58 update: added /悟空 - 蔡翊昇.mp3
+2025-06-07T21:13:58 update: added /少年夜雨行 - 李蚊香、Braska.mp3
+2025-06-07T21:13:58 update: added /春梦.月落春荒 - Tacke竹桑.mp3
+2025-06-07T21:14:04 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:14:11 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:14:11 update: added /春雪满肩人 - 周遭.mp3
+2025-06-07T21:15:40 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:15:40 update: added /梦里偕老 - Aki阿杰.mp3
+2025-06-07T21:15:40 update: added /未见青山老 - 以冬.mp3
+2025-06-07T21:15:40 update: added /杏花巷 - 灰白.mp3
+2025-06-07T21:15:40 update: added /杀生 - 特曼.mp3
+2025-06-07T21:15:40 update: added /未曾辞故人 - （记云梦双杰） - NL不分、小魂.mp3
+2025-06-07T21:15:40 update: added /栖枝 - 双笙（陈元汐）.mp3
+2025-06-07T21:15:40 update: added /春风夏雨 - 五色石南叶.mp3
+2025-06-07T21:15:40 update: added /梦里梨花白 - Aki阿杰.mp3
+2025-06-07T21:15:40 update: added /本狐号妖不号仙 - 狐妖.mp3
+2025-06-07T21:15:40 update: added /朝忆梨花暮忆雪 - 河图.mp3
+2025-06-07T21:15:40 update: added /梨花薫雨 - Braska.mp3
+2025-06-07T21:15:40 update: added /月华沉梦 - 慕寒.mp3
+2025-06-07T21:15:40 update: added /杏花弦外雨 - CRITTY、司夏.mp3
+2025-06-07T21:15:40 update: added /杯欢 - 东篱.mp3
+2025-06-07T21:15:40 update: added /晓以大梦 - 千是.mp3
+2025-06-07T21:15:51 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:15:51 update: added /棠梨煎雪 - 银临.mp3
+2025-06-07T21:20:40 update: added /舞霓裳 - 灰白.mp3
+2025-06-07T21:20:40 update: added /长生诀 - 西瓜JUN.mp3
+2025-06-07T21:20:40 update: added /蜀·御风 - 纯歌版（三国之蜀汉群像） - 祝贺、小魂、流浪的蛙蛙、文子轩、裂天、贰萬、落樱风、旧事年华.mp3
+2025-06-07T21:20:40 update: added /江湖归来叙旧茶 - 五色石南叶、小千.mp3
+2025-06-07T21:20:40 update: added /魂归(天策) - 音频怪物.mp3
+Warning: Xing stream size off by more than 1%, fuzzy seeking may be even more fuzzy than by design!
+2025-06-07T21:20:40 update: added /醉人间 - 灰色、平纱落雁音乐团队.mp3
+2025-06-07T21:20:40 update: added /雨霖铃 - 卡修Rui.mp3
+2025-06-07T21:20:40 update: added /礼仪之邦 - HITA、安九、叶里.mp3
+2025-06-07T21:20:40 update: added /煮酒听雨 - 吾恩.mp3
+2025-06-07T21:20:40 update: added /阖眸烟云 - 东篱.mp3
+2025-06-07T21:20:40 update: added /湖心亭 - 小曲儿、蔡翊昇.mp3
+2025-06-07T21:20:40 update: added /青衣 - W.K..mp3
+2025-06-07T21:20:40 update: added /篱边秋 - 汐音社、横颜君.mp3
+2025-06-07T21:20:40 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:20:40 update: added /终岁风流人 - 钟祺源、卡修Rui.mp3
+2025-06-07T21:20:40 update: added /露中生 - 不才.mp3
+2025-06-07T21:20:40 update: added /逆势择天 - 特曼.mp3
+2025-06-07T21:20:40 update: added /江湖大梦 - 慕寒.mp3
+2025-06-07T21:20:40 update: added /知仙骨-《天官赐福》原创花怜同人曲 - 黑崎子.mp3
+2025-06-07T21:20:40 update: added /江南语 - 小时姑娘、Pig小优.mp3
+2025-06-07T21:20:40 update: added /画舫烟中浅 - Pig小优.mp3
+2025-06-07T21:20:40 update: added /老我青山 - 云雀Cream.mp3
+2025-06-07T21:20:40 update: added /花满楼 - 小魂.mp3
+2025-06-07T21:20:40 update: added /江湖小沙弥 - 奇然.mp3
+2025-06-07T21:20:40 update: added /贺新谣 - 银临、李蚊香、Tacke竹桑、知性的小方块、Aki阿杰、橙翼、云の泣、卡修Rui.mp3
+2025-06-07T21:20:40 update: added /热爱至上 - 河图、音频怪物、慕寒、HITA、小爱的妈、Aki阿杰、蔡翊昇、橙翼.mp3
+2025-06-07T21:20:40 update: added /这世上所有的歌 - 小曲儿.mp3
+2025-06-07T21:20:40 update: added /非鱼(少林&纯阳) - 五色石南叶、慕寒.mp3
+2025-06-07T21:20:40 update: added /风颂天下 - 清漪.mp3
+2025-06-07T21:20:40 update: added /谪仙-橙光《沧海仙途》主题曲 - 伦桑.mp3
+2025-06-07T21:20:40 update: added /琅琊榜·赤血长殷 - 五色石南叶、慕寒、Smile_小千、KenZong.mp3
+2025-06-07T21:20:40 update: added /琵琶行 - 奇然、沈谧仁.mp3
+2025-06-07T21:20:40 update: added /犬物语 - 柏凝.mp3
+2025-06-07T21:20:40 update: added /烽火作红妆 - 文兮_、克丽斯、AYQ、玫瞳.mp3
+2025-06-07T21:20:40 update: added /陈酒新茶令 - Assen捷&东篱.mp3
+2025-06-07T21:20:40 update: added /百鬼浮世颂 - 漆柚.mp3
+2025-06-07T21:20:40 update: added /青龙永夜 - 河图、音频怪物、林清弄、流浪的蛙蛙、李常超 (Lao乾妈)、云の泣.mp3
+2025-06-07T21:20:40 update: added /适居山 - HITA.mp3
+2025-06-07T21:20:40 update: added /水龙吟 - HITA.mp3
+2025-06-07T21:20:40 update: added /风雪待归人 - W.K..mp3
+2025-06-07T21:20:40 update: added /湖光水色调 - 戴荃.mp3
+2025-06-07T21:20:40 update: added /盛世回首 - 慕寒、Mario.mp3
+2025-06-07T21:20:40 update: added /长相忆 - 慕寒、五色石南叶、Smile_小千、苏郁青.mp3
+2025-06-07T21:20:40 update: added /浮生祭 - 小曲儿.mp3
+2025-06-07T21:20:40 update: added /白鹿志异 - 彦Jans.mp3
+2025-06-07T21:20:40 update: added /笔耕不辍 - 小曲儿.mp3
+2025-06-07T21:20:40 update: added /须臾之客 - Braska.mp3
+2025-06-07T21:20:40 update: added /薛涛笺 - Tacke竹桑、诗雪.mp3
+2025-06-07T21:20:40 update: added /烟雨行舟 - 伦桑.mp3
+2025-06-07T21:20:40 update: added /满城雪（燃情版）——《梦幻西游》电脑版剑侠客同人曲 - 萧忆情Alex、特曼、满汉全席.mp3
+2025-06-07T21:20:40 update: added /笔墨山河千秋色 - 玄觞.mp3
+2025-06-07T21:20:40 update: added /颜非 - 彦Jans.mp3
+2025-06-07T21:20:40 update: added /牵丝戏 - 银临、Aki阿杰.mp3
+2025-06-07T21:20:40 update: added /沾花拂墨 - 蔡翊昇.mp3
+2025-06-07T21:20:40 update: added /风月无边 - 晃儿.mp3
+2025-06-07T21:20:40 update: added /爱莲说 - 小曲儿.mp3
+2025-06-07T21:20:40 update: added /生死江湖 - 李常超 (Lao乾妈).mp3
+2025-06-07T21:20:40 update: added /【魔道祖师】同道殊途（剧情版） - HITA、Assen捷、Aki阿杰、W.K.、图特哈蒙、吾恩、人衣大人、佑可猫、泠鸢.mp3
+2025-06-07T21:20:40 update: added /爱殇 - 小时姑娘、龚骏.mp3
+2025-06-07T21:20:40 update: added /王者【王者荣耀群像同人歌】 - 龙小葵、Assen捷、W.K.、老虎欧巴、忘月幽、根小八、文君也.mp3
+2025-06-07T21:20:40 update: added /窗前明月光 - 河图.mp3
+2025-06-07T21:20:40 update: added /浮云生死 - 小曲儿、小魂.mp3
+2025-06-07T21:20:40 update: added /涉夜无咎（鸦青作曲） - 雨洛.mp3
+2025-06-07T21:20:40 update: added /落霞云归 - 慕寒.mp3
+2025-06-07T21:20:40 update: added /相思引 - 董真.mp3
+2025-06-07T21:20:40 update: added /酒情钟 - 伦桑.mp3
+2025-06-07T21:20:40 update: added /蜉蝣梦 - 叶洛洛.mp3
+2025-06-07T21:20:40 update: added /江湖少年(纯阳) - 东篱.mp3
+2025-06-07T21:20:40 update: added /逐鹿 - 东篱.mp3
+2025-06-07T21:20:40 update: added /飞花调（ft.五音Jw） - WH宇恒、五音Jw.mp3
+2025-06-07T21:20:40 update: added /【魔道祖师·群像】步人间 - 琴酒蜀黍、岚之调、卿雲、佩恩、风十三、晨炀、活埋、佑旻、星河Clark、岁寒、茶师、云天_.mp3
+2025-06-07T21:20:40 update: added /风月令（《叶羽千华》专辑收录曲01） - IRiS七叶.mp3
+2025-06-07T21:20:40 update: added /红妆 - 排骨教主、papaw泡泡、南岐、Mr鱼、弹棉花的GG.mp3
+2025-06-07T21:20:40 update: added /醉狂草(丐帮) - 蔡翊昇.mp3
+2025-06-07T21:20:40 update: added /苍山负雪 - 慕寒.mp3
+2025-06-07T21:20:40 update: added /江山雪(纯阳) - 小爱的妈.mp3
+2025-06-07T21:20:40 update: added /眉心妆 - 甘璐.mp3
+2025-06-07T21:20:40 update: added /莫待江湖老 - 小曲儿.mp3
+2025-06-07T21:20:40 update: added /谓我 - 小曲儿.mp3
+2025-06-07T21:20:40 update: added /谢却荼蘼 - 银临、慕寒.mp3
+2025-06-07T21:20:40 update: added /觅红 - 兔裹煎蛋卷.mp3
+2025-06-07T21:20:40 update: added /花间事 - 慕寒.mp3
+2025-06-07T21:28:58 update: added /肥皂菌丨珉珉的猫咪丨 - 戏外戏.flac
+2025-06-07T21:28:58 update: added /闻人听書_ - 韶华渡.flac
+2025-06-07T21:28:58 update: added /清水er - 大天蓬 (女生版).flac
+2025-06-07T21:28:58 update: added /昆玉 - 两相欢.flac
+2025-06-07T21:28:58 update: added /阿YueYue - 云与海.flac
+2025-06-07T21:28:58 update: added /黑崎子 - 东坡.flac
+2025-06-07T21:28:58 update: added /昙骨 - 长安三月半.mp3
+2025-06-07T21:28:58 update: added /唐伯虎Annie - 寒山谁煮茶.flac
+2025-06-07T21:28:58 update: added /小爱的妈 - 陈曲叹.flac
+2025-06-07T21:28:58 update: added /七叔（叶泽浩） - 燕无歇.flac
+2025-06-07T21:28:58 update: added /花粥、马雨阳 - 盗将行.flac
+2025-06-07T21:28:58 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:28:58 update: added /指尖笑 - 此去经年.flac
+2025-06-07T21:28:58 update: added /叶里 - 南山雪.flac
+2025-06-07T21:28:58 update: added /乔洋、周林枫 - 人间酒.flac
+2025-06-07T21:28:58 update: added /浮生梦 - 探窗.flac
+2025-06-07T21:28:58 update: added /童珺 - 油纸伞.flac
+2025-06-07T21:28:58 update: added /小阿七 - 酒家.flac
+2025-06-07T21:28:58 update: added /添儿呗 - 花落旧梦凉.flac
+2025-06-07T21:28:58 update: added /苏谭谭 - 游山恋 (戏腔女版).flac
+2025-06-07T21:28:58 update: added /麦小兜 - 故人泪.flac
+2025-06-07T21:28:58 update: added /零一九零贰 - 忘川彼岸.flac
+2025-06-07T21:28:58 update: added /赤羽 - 天下局.flac
+2025-06-07T21:28:58 update: added /吕炸炸 - 情字煮酒.flac
+2025-06-07T21:28:58 update: added /妖蝠 - 青衣旦.flac
+2025-06-07T21:28:58 update: added /来一碗老于 - 天地似无情.flac
+2025-06-07T21:28:58 update: added /七叔（叶泽浩） - 踏山河.flac
+2025-06-07T21:28:58 update: added /Tacke竹桑、蝙蝠 - 戏里春秋戏外听.flac
+2025-06-07T21:28:58 update: added /糯米Nomi - 情字难.flac
+2025-06-07T21:28:58 update: added /海伦 - 游山恋.flac
+2025-06-07T21:28:58 update: added /叶聪明 - 琴诀.flac
+2025-06-07T21:28:58 update: added /花僮 - 公子你莫怪.flac
+2025-06-07T21:28:58 update: added /泽典 - 折枝花满衣.flac
+2025-06-07T21:28:58 update: added /赵方婧 - 缘续.flac
+2025-06-07T21:28:58 update: added /李常超（Lao乾妈） - 长安姑娘.flac
+2025-06-07T21:28:58 update: added /阿YueYue、戾格 - 沈园外.flac
+2025-06-07T21:28:58 update: added /草帽酱 - 戏说.flac
+2025-06-07T21:28:58 update: added /唐语霏 - 戏外戏.flac
+2025-06-07T21:28:58 update: added /郭聪明 - 盗墓笔记·十年人间.flac
+2025-06-07T21:28:58 update: added /时光胶囊 - 青丝.flac
+2025-06-07T21:28:58 update: added /周林枫 - 戏子红妆.flac
+2025-06-07T21:28:58 update: added /花僮 - 逍遥记.flac
+2025-06-07T21:28:58 update: added /胡夏、郁可唯 - 知否知否.flac
+2025-06-07T21:28:58 update: added /双笙 (陈元汐) - 一壶春秋.flac
+2025-06-07T21:28:58 update: added /伯爵Johnny、唐伯虎Annie - 伯虎说 (feat.唐伯虎Annie).flac
+2025-06-07T21:28:58 update: added /回音哥 - 戏外人.flac
+2025-06-07T21:28:58 update: added /韩安旭 - 花酒.flac
+2025-06-07T21:28:58 update: added /小乐哥（王唯乐） - 离别恨.flac
+2025-06-07T21:28:58 update: added /小倩 - 此忆经年.flac
+2025-06-07T21:28:58 update: added /郑浩 - 须尽欢.flac
+2025-06-07T21:28:58 update: added /略略略 - 清幽院.flac
+2025-06-07T21:28:58 update: added /少司命、霄磊 - 琵琶诉.flac
+2025-06-07T21:28:58 update: added /周深 - 江湖觅知音.flac
+2025-06-07T21:28:58 update: added /洛先生 - 孤城.flac
+2025-06-07T21:28:58 update: added /五音Jw - 步戏.flac
+2025-06-07T21:28:58 update: added /曲肖冰 - 琉璃.flac
+2025-06-07T21:28:58 update: added /HITA - 赤伶.flac
+2025-06-07T21:28:58 update: added /奡雪 - 红绡.flac
+2025-06-07T21:28:58 update: added /花僮 - 笑纳.flac
+2025-06-07T21:28:58 update: added /豆包 - 诗人莫把红颜醉 (戏腔版).flac
+2025-06-07T21:28:58 update: added /艾辰 - 谁与归.flac
+2025-06-07T21:28:58 update: added /花粥、王胜娚 - 出山.flac
+2025-06-07T21:28:58 update: added /叶炫清 - 九张机.flac
+2025-06-07T21:28:58 update: added /小魂 - 关山酒.flac
+2025-06-07T21:28:58 update: added /陈亦洺、尚辰、镜予歌 - 千秋迭梦.flac
+2025-06-07T21:28:58 update: added /尹昔眠 - 我叫长安,你叫故里.flac
+2025-06-07T21:28:58 update: added /叶里 - 谪仙.flac
+2025-06-07T21:28:58 update: added /蒋雪儿 - 莫问归期.flac
+2025-06-07T21:28:58 update: added /平生青涯 - 献天缘.flac
+2025-06-07T21:28:58 update: added /封茗囧菌 - 芳华慢.flac
+2025-06-07T21:28:58 update: added /Nop吕月榕 - 良人当归.flac
+2025-06-07T21:28:58 update: added /七叔（叶泽浩） - 一介布衣.flac
+2025-06-07T21:28:58 update: added /花粥 - 归去来兮.flac
+2025-06-07T21:28:58 update: added /司南 - 夭娘.flac
+2025-06-07T21:28:58 update: added /七音盒 - 云深不知处.flac
+2025-06-07T21:28:58 update: added /伦桑、张晓涵 - 字正腔圆.flac
+2025-06-07T21:28:58 update: added /宋宇宁 - 那年·年少.flac
+2025-06-07T21:28:58 update: added /郑鱼 - 怎叹.flac
+2025-06-07T21:28:58 update: added /鸾音社 - 归去来兮.flac
+2025-06-07T21:28:58 update: added /Felicia蔡菲凡、RLY-MUSIC - 一曲断肠.flac
+2025-06-07T21:28:58 update: added /邓寓君(等什么君) - 春庭雪.flac
+2025-06-07T21:28:58 update: added /吴琼 - 故人叹.flac
+2025-06-07T21:28:58 update: added /奇然、沈谧仁 - 琵琶行.flac
+2025-06-07T21:28:58 update: added /Mukyo木西 - 梅雪念.flac
+2025-06-07T21:28:58 update: added /海伦 - 游京.flac
+2025-06-07T21:28:58 update: added /李常超（Lao乾妈） - 盗墓笔记·十年人间.flac
+2025-06-07T21:28:58 update: added /泥鳅Niko - 梨园叹.flac
+2025-06-07T21:28:58 update: added /丸子呦 - 广寒宫.flac
+2025-06-07T21:28:58 update: added /张杰 - 雪龙吟.flac
+2025-06-07T21:28:58 update: added /谭晗 - 君不知.flac
+2025-06-07T21:28:58 update: added /白嘉峻 - 戏中人.flac
+2025-06-07T21:28:58 update: added /张晓棠 - 苏幕遮.flac
+2025-06-07T21:28:58 update: added /HITA - 两情未许.flac
+2025-06-07T21:28:58 update: added /戚琦 - 美周郎.flac
+2025-06-07T21:28:58 update: added /裂天、玉璇玑 - 秦楼月.flac
+2025-06-07T21:28:58 update: added /唐六幺 - 七十二家酒楼.flac
+2025-06-07T21:28:58 update: added /周杰伦 - 霍元甲.flac
+2025-06-07T21:28:58 update: added /韩潇Es - 叹秋暮.flac
+2025-06-07T21:28:58 update: added /李丹凤 - 长安月.flac
+2025-06-07T21:28:58 update: added /平生不晚 - 君知否.flac
+2025-06-07T21:28:58 update: added /添儿呗 - 烟火人间.flac
+2025-06-07T21:28:58 update: added /鹿瑶 - 游京 (女生戏腔版).flac
+2025-06-07T21:28:58 update: added /小阿七 - 不谓侠.flac
+2025-06-07T21:28:58 update: added /清水er - 戏红妆.flac
+2025-06-07T21:28:58 update: added /闻人听書_ - 虞兮叹.flac
+2025-06-07T21:28:58 update: added /排骨教主 - 入梦局.flac
+2025-06-07T21:28:58 update: added /慕寒、黄诗扶 - 一拜天地.mp3
+2025-06-07T21:28:58 update: added /阿YueYue - 贪杯琥珀.flac
+2025-06-07T21:28:58 update: added /王力宏、谭维维 - 缘分一道桥.flac
+2025-06-07T21:28:58 update: added /傲寒同学 - 不归人.flac
+2025-06-07T21:28:58 update: added /漆柚 - 醉红颜.flac
+2025-06-07T21:28:58 update: added /七叔（叶泽浩） - 半生雪.flac
+2025-06-07T21:28:58 update: added /银临、Aki阿杰 - 牵丝戏.flac
+2025-06-07T21:28:58 update: added /胡歌 - 逍遥叹.flac
+2025-06-07T21:28:58 update: added /林小珂 - 美人画卷.flac
+2025-06-07T21:28:58 update: added /井胧、井迪儿 - 骁.flac
+2025-06-07T21:28:58 update: added /红格格 - 惊鸿一瞥.flac
+2025-06-07T21:28:58 update: added /尹昔眠 - 西楼别序.flac
+2025-06-07T21:28:58 update: added /蔡鹤峰 - 娶.flac
+2025-06-07T21:28:58 update: added /梁帅 - 戏中无人.flac
+2025-06-07T21:28:58 update: added /镜予歌、陈亦洺、喧笑 - 晚夜微雨问海棠.flac
+2025-06-07T21:48:17 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:49:28 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:53:25 player: played "何日重到苏澜桥 - 泠鸢yousa.mp3"
+2025-06-07T21:53:45 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T21:57:52 player: played "「将进酒」 - 佑可猫、DMYoung.mp3"
+2025-06-07T21:57:58 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T22:02:19 player: played "「将进酒」 - 佑可猫、DMYoung.mp3"
+2025-06-07T22:02:24 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T22:05:49 player: played "【取经计划·原创】新·九九八十一（官方优化版） - 泠鸢yousa.mp3"
+2025-06-07T22:05:54 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T22:10:25 player: played "【魔道祖师·群像】步人间 - 琴酒蜀黍、岚之调、卿雲、佩恩、风十三、晨炀、活埋、佑旻、星河Clark、岁寒、茶师、云天_.mp3"
+2025-06-07T22:10:31 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T22:16:40 flac: problem reading metadata
+2025-06-07T22:16:40 ffmpeg/mp3float: Could not update timestamps for skipped samples.
+2025-06-07T22:17:20 player: played "【魔道祖师】同道殊途（剧情版） - HITA、Assen捷、Aki阿杰、W.K.、图特哈蒙、吾恩、人衣大人、佑可猫、泠鸢.mp3"
+2025-06-07T22:17:25 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T22:20:53 player: played "Tacke竹桑、蝙蝠 - 戏里春秋戏外听.flac"
+2025-06-07T22:21:00 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T22:23:41 player: played "一寒辞 - 乐正绫、音阙诗听.mp3"
+2025-06-07T22:23:47 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T22:27:44 player: played "一梦浮生\xa0—\xa0天涯明月刀OL群像 - 彦Jans、莲琊、HITA、江南诚、龙小葵、冬子、重小烟.mp3"
+2025-06-07T22:27:51 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T22:31:51 player: played "一首想不通的古风 - 玄觞、蔡翊昇、米糖音乐.mp3"
+2025-06-07T22:37:33 player: played "三生叹 - 慕寒、胡莎莎.mp3"
+2025-06-07T22:42:13 output: Failed to play on "PulseAudio Output" (pulse): disconnected
+2025-06-07T23:34:34 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-07T23:38:51 player: played "三生同归（剧情版） - 吾恩、仇仇.mp3"
+2025-06-07T23:42:03 player: played "上元姑娘 - 彦Jans、洛绯烟.mp3"
+2025-06-07T23:47:06 player: played "不死城 - 小魂.mp3"
+2025-06-07T23:50:38 player: played "东流 - 绯村柯北、灰老板.mp3"
+2025-06-07T23:55:21 player: played "东流水 - 燕池.mp3"
+2025-06-07T23:59:43 player: played "中华美食颂 - Tacke竹桑、以冬、云の泣、祈Inory、晴愔.mp3"
+2025-06-08T00:04:05 player: played "丹青客 - HITA、小曲儿.mp3"
+2025-06-08T00:08:14 player: played "乌衣巷 - Smile_小千.mp3"
+2025-06-08T00:11:59 player: played "云水逢 - 玄觞、南瑾天.mp3"
+2025-06-08T00:12:54 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-08T00:46:40 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-08T01:01:12 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-08T01:02:23 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-09T12:29:18 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-09T12:29:46 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-09T12:30:57 output: Failed to play on "PulseAudio Output" (pulse): disconnected
+2025-06-16T11:22:14 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T11:26:25 player: played "何日重到苏澜桥 - 泠鸢yousa.mp3"
+2025-06-16T11:26:31 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T11:29:55 player: played "何生枷锁 - 洪尘.mp3"
+2025-06-16T11:30:01 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T11:33:59 player: played "倦世间 - 蔡翊昇、萧忆情Alex.mp3"
+2025-06-16T11:34:04 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T11:38:39 player: played "倾君沧溟恨(纯歌版) - 慕寒.mp3"
+2025-06-16T11:38:44 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T11:43:04 player: played "倾尽天下 - 河图.mp3"
+2025-06-16T11:43:09 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T11:47:22 player: played "兰若词 - 小爱的妈.mp3"
+2025-06-16T11:47:27 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T11:51:47 player: played "冠玉 - 叶里.mp3"
+2025-06-16T11:51:52 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T11:55:37 player: played "凰鸣与共 - 流浪的蛙蛙、慕斯の小乖.mp3"
+2025-06-16T11:55:42 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T11:59:55 player: played "刀剑无梦 - (倚天屠龙记手游周年庆主题曲) - 玄觞、特曼.mp3"
+2025-06-16T12:00:00 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T12:03:59 player: played "初心共老 - 慕斯の小乖.mp3"
+2025-06-16T12:04:04 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T12:07:57 player: played "初见便是永远 - Smile_小千.mp3"
+2025-06-16T12:08:02 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T12:12:02 player: played "初雪 - 排骨教主.mp3"
+2025-06-16T12:12:07 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T12:16:26 player: played "别赋 - 慕寒.mp3"
+2025-06-16T12:16:31 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T12:21:23 player: played "刹那芳华曲(圆满版) - 小爱的妈.mp3"
+2025-06-16T12:21:28 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T12:28:32 player: played "剑三群像•山河同誓 - 顾时笙、少年霜、上古呐（唐琳琳）、南偿、子樂tom、是惑惑呀、神小锦Hsu、兔裹煎蛋卷、混沌、山.mp3"
+2025-06-16T12:28:37 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T12:35:09 player: played "剑饮山河•剧情版 - 冬子、三无MarBlue、一君、玉璇玑、玄觞、炽天使、祝贺、双笙（陈元...汐、息九泱、无痕、青泉.mp3"
+2025-06-16T12:35:15 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T12:38:41 player: played "北凉歌【雪中悍刀行】 - 鲁四月.mp3"
+2025-06-16T12:38:46 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T12:42:38 player: played "十年一晌 - 慕寒.mp3"
+2025-06-16T12:42:43 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T12:46:17 player: played "十里春风醉江南 - 竹庭、橙七、嫦綰、鸣吾.mp3"
+2025-06-16T12:46:22 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T12:49:53 player: played "南柯梦 - 泥鳅Niko.mp3"
+2025-06-16T12:49:59 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T12:54:10 player: played "危年不祈——记小说《故千秋》纪长渊 - 封茗囧菌.mp3"
+2025-06-16T12:54:16 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T12:59:26 player: played "历书·乌衣 - Mario.mp3"
+2025-06-16T12:59:32 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T13:04:39 player: played "又雪 - 五色石南叶、小千.mp3"
+2025-06-16T13:04:44 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T13:08:15 player: played "双人行 - 西二.mp3"
+2025-06-16T13:08:20 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T13:11:49 player: played "君临天下 - 王朝.mp3"
+2025-06-16T13:11:54 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T13:17:45 player: played "咫尺相思 古剑奇谭同人原创 - 小曲儿、Walker、Aki阿杰、音频怪物、HITA、梦岚、富贵哥、小爱的妈、完美仙剑、.mp3"
+2025-06-16T13:17:50 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T13:21:53 player: played "喵万岁-橙光《如何征服心机喵》主题曲 - 橙光音乐、蔡翊昇.mp3"
+2025-06-16T13:21:58 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T13:25:57 player: played "四时令 - Smile_小千、五色石南叶、慕寒、朱强.mp3"
+2025-06-16T13:26:02 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T13:31:33 player: played "夜中笺·无题 - 卡修Rui.mp3"
+2025-06-16T13:31:38 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T13:36:33 player: played "大梦 - 小曲儿.mp3"
+2025-06-16T13:36:39 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T13:41:21 player: played "大荒往事 - Winky诗.mp3"
+2025-06-16T13:41:27 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T13:46:23 player: played "天地缓缓(纯阳) - 伦桑.mp3"
+2025-06-16T13:46:28 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T13:51:00 player: played "天局 - 小曲儿.mp3"
+2025-06-16T13:51:05 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T13:56:00 player: played "如玉如歌 - 东篱.mp3"
+2025-06-16T13:56:05 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T13:59:05 player: played "妖怪町奇谭 - 平纱落雁音乐团队、伦桑、小曲儿.mp3"
+2025-06-16T13:59:11 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T14:03:36 player: played "对弈 - 萧忆情、西瓜JUN、小坠、伦桑、妖扬、人衣大人、吾恩.mp3"
+2025-06-16T14:03:42 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T14:08:00 player: played "将卿 - 苏玮.mp3"
+2025-06-16T14:08:06 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T14:12:20 player: played "小城谣 - 胡碧乔.mp3"
+2025-06-16T14:12:26 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T14:16:31 player: played "少年夜雨行 - 李蚊香、Braska.mp3"
+2025-06-16T14:16:36 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T14:21:26 player: played "少年熬至老 - 少恭、刘兆伦.mp3"
+2025-06-16T14:21:32 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T14:25:40 player: played "山有木兮-橙光《人鱼传说之长生烛》主题曲 - 伦桑、橙光音乐.mp3"
+2025-06-16T14:25:45 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T14:30:10 player: played "山水画意 - 慕寒.mp3"
+2025-06-16T14:30:15 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T14:34:58 player: played "山鬼 - Winky诗.mp3"
+2025-06-16T14:35:04 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T14:39:14 player: played "巷雨梨花 - 涵昱.mp3"
+2025-06-16T14:39:19 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T14:44:19 player: played "幸为天下客 - 萧忆情Alex、满汉全席.mp3"
+2025-06-16T14:44:24 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T14:48:07 flac: problem reading metadata
+2025-06-16T14:48:07 ffmpeg/mp3float: Could not update timestamps for skipped samples.
+2025-06-16T14:48:44 player: played "异世谣·万世芬芳录 - 慕寒.mp3"
+2025-06-16T14:48:49 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T14:51:40 ffmpeg/mp3float: Could not update timestamps for discarded samples.
+2025-06-16T14:52:03 player: played "张晓棠 - 苏幕遮.flac"
+2025-06-16T14:52:09 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T14:57:12 player: played "归一 - 泛音堂、吾恩、喵☆酱、小坠.mp3"
+2025-06-16T14:57:17 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T15:02:04 player: played "御剑天涯（《御剑情缘》周年主题曲） - 满汉全席.mp3"
+2025-06-16T15:02:10 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T15:06:21 player: played "循香阡陌 - 清黛半夏、落樱风.mp3"
+2025-06-16T15:06:27 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T15:10:46 player: played "徽墨说 - 萧忆情Alex.mp3"
+2025-06-16T15:10:52 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T15:15:15 player: played "悟空 - 蔡翊昇.mp3"
+2025-06-16T15:15:21 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T15:19:18 player: played "故人不散 - 醉雪、纱朵.mp3"
+2025-06-16T15:19:24 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T15:24:07 player: played "故梦 - 橙翼.mp3"
+2025-06-16T15:24:12 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T15:28:21 player: played "无故之秋 - 卡修Rui.mp3"
+2025-06-16T15:28:26 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T15:31:59 flac: problem reading metadata
+2025-06-16T15:31:59 ffmpeg/mp3float: Could not update timestamps for skipped samples.
+2025-06-16T15:32:40 player: played "旧时风月 - 安神、司夏.mp3"
+2025-06-16T15:32:46 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T15:37:33 player: played "时光胶囊 - 青丝.flac"
+2025-06-16T15:37:39 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T15:41:35 player: played "明月天涯 - 五音Jw.mp3"
+2025-06-16T15:41:40 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T15:45:19 player: played "明月舟 - 司夏、慕寒.mp3"
+2025-06-16T15:45:24 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T15:48:54 player: played "昙骨 - 长安三月半.mp3"
+2025-06-16T15:48:59 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T15:53:26 player: played "春梦.月落春荒 - Tacke竹桑.mp3"
+2025-06-16T15:53:32 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T15:57:19 player: played "春雪满肩人 - 周遭.mp3"
+2025-06-16T15:57:25 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T16:01:52 player: played "春风夏雨 - 五色石南叶.mp3"
+2025-06-16T16:01:57 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T16:06:04 player: played "晓以大梦 - 千是.mp3"
+2025-06-16T16:06:09 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T16:10:16 player: played "月华沉梦 - 慕寒.mp3"
+2025-06-16T16:10:22 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T16:14:44 player: played "朝忆梨花暮忆雪 - 河图.mp3"
+2025-06-16T16:14:50 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T16:18:37 player: played "未曾辞故人\xa0-\xa0（记云梦双杰） - NL不分、小魂.mp3"
+2025-06-16T16:18:42 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T16:23:18 player: played "未见青山老 - 以冬.mp3"
+2025-06-16T16:23:23 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T16:27:13 player: played "本狐号妖不号仙 - 狐妖.mp3"
+2025-06-16T16:27:18 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T16:31:13 player: played "杀生 - 特曼.mp3"
+2025-06-16T16:31:19 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T16:34:42 player: played "杏花巷 - 灰白.mp3"
+2025-06-16T16:34:47 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T16:38:40 player: played "杏花弦外雨 - CRITTY、司夏.mp3"
+2025-06-16T16:38:45 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T16:42:21 player: played "杯欢 - 东篱.mp3"
+2025-06-16T16:42:27 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T16:46:35 player: played "栖枝 - 双笙（陈元汐）.mp3"
+2025-06-16T16:46:40 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T16:52:11 player: played "梦里偕老 - Aki阿杰.mp3"
+2025-06-16T16:52:16 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T16:56:53 player: played "梦里梨花白 - Aki阿杰.mp3"
+2025-06-16T16:56:59 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T17:00:35 player: played "梨花薫雨 - Braska.mp3"
+2025-06-16T17:00:41 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T17:04:41 player: played "棠梨煎雪 - 银临.mp3"
+2025-06-16T17:04:46 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-16T17:06:06 player: played "水龙吟 - HITA.mp3"
+2025-06-23T20:23:41 ffmpeg/lrc: Dropping 1 duplicated subtitle events
+2025-06-23T20:41:12 player: played "水龙吟 - HITA.mp3"
+2025-06-27T22:17:31 exception: Failed to decode "/home/ml/Music/水龙吟 - HITA.mp3"; Failed to open "/home/ml/Music/水龙吟 - HITA.mp3": No such file or directory
+2025-06-27T22:17:31 player: played "水龙吟 - HITA.mp3"
+2025-06-27T22:20:59 update: removing 仙侠世界 - 李常超 (Lao乾妈)、音频怪物、冥月、哦漏、萧忆情Alex、双笙（陈元汐）、蔡翊昇、肥皂菌丨珉珉的猫咪丨.mp3
+2025-06-27T22:20:59 update: removing 云水逢 - 玄觞、南瑾天.mp3
+2025-06-27T22:20:59 update: removing 乌衣巷 - Smile_小千.mp3
+2025-06-27T22:20:59 update: removing 丹青客 - HITA、小曲儿.mp3
+2025-06-27T22:20:59 update: removing 中华美食颂 - Tacke竹桑、以冬、云の泣、祈Inory、晴愔.mp3
+2025-06-27T22:20:59 update: removing 东流水 - 燕池.mp3
+2025-06-27T22:20:59 update: removing 东流 - 绯村柯北、灰老板.mp3
+2025-06-27T22:20:59 update: removing 不死城 - 小魂.mp3
+2025-06-27T22:20:59 update: removing 上元姑娘 - 彦Jans、洛绯烟.mp3
+2025-06-27T22:20:59 update: removing 三生同归（剧情版） - 吾恩、仇仇.mp3
+2025-06-27T22:20:59 update: removing 三生叹 - 慕寒、胡莎莎.mp3
+2025-06-27T22:20:59 update: removing 一首想不通的古风 - 玄觞、蔡翊昇、米糖音乐.mp3
+2025-06-27T22:20:59 update: removing 一梦浮生 — 天涯明月刀OL群像 - 彦Jans、莲琊、HITA、江南诚、龙小葵、冬子、重小烟.mp3
+2025-06-27T22:20:59 update: removing 一寒辞 - 乐正绫、音阙诗听.mp3
+2025-06-27T22:20:59 update: removing Tacke竹桑、蝙蝠 - 戏里春秋戏外听.flac
+2025-06-27T22:20:59 update: removing 【魔道祖师】同道殊途（剧情版） - HITA、Assen捷、Aki阿杰、W.K.、图特哈蒙、吾恩、人衣大人、佑可猫、泠鸢.mp3
+2025-06-27T22:20:59 update: removing 【魔道祖师·群像】步人间 - 琴酒蜀黍、岚之调、卿雲、佩恩、风十三、晨炀、活埋、佑旻、星河Clark、岁寒、茶师、云天_.mp3
+2025-06-27T22:20:59 update: removing 【取经计划·原创】新·九九八十一（官方优化版） - 泠鸢yousa.mp3
+2025-06-27T22:20:59 update: removing 「将进酒」 - 佑可猫、DMYoung.mp3
+2025-06-27T22:20:59 update: removing 井胧、井迪儿 - 骁.flac
+2025-06-27T22:20:59 update: removing 费戚戚 - 风催雨.mp3
+2025-06-27T22:20:59 update: removing 郑浩 - 须尽欢.flac
+2025-06-27T22:20:59 update: removing 闻人听書_ - 韶华渡.flac
+2025-06-27T22:20:59 update: removing 妖蝠 - 青衣旦.flac
+2025-06-27T22:20:59 update: removing 张杰 - 雪龙吟.flac
+2025-06-27T22:20:59 update: removing 小爱的妈 - 陈曲叹.flac
+2025-06-27T22:20:59 update: removing 李丹凤 - 长安月.flac
+2025-06-27T22:20:59 update: removing 李常超（Lao乾妈） - 长安姑娘.flac
+2025-06-27T22:20:59 update: removing 漆柚 - 醉红颜.flac
+2025-06-27T22:20:59 update: removing 醉人间 - 灰色、平纱落雁音乐团队.mp3
+2025-06-27T22:20:59 update: removing 宋宇宁 - 那年·年少.flac
+2025-06-27T22:20:59 update: removing 花僮 - 逍遥记.flac
+2025-06-27T22:20:59 update: removing 阿YueYue - 贪杯琥珀.flac
+2025-06-27T22:20:59 update: removing 艾辰 - 谁与归.flac
+2025-06-27T22:20:59 update: removing 豆包 - 诗人莫把红颜醉 (戏腔版).flac
+2025-06-27T22:20:59 update: removing 昆玉 - 两相欢.flac
+2025-06-27T22:20:59 update: removing 尹昔眠 - 西楼别序.flac
+2025-06-27T22:20:59 update: removing 蜉蝣梦 - 叶洛洛.mp3
+2025-06-27T22:20:59 update: removing 蒋雪儿 - 莫问归期.flac
+2025-06-27T22:20:59 update: removing 封茗囧菌 - 芳华慢.flac
+2025-06-27T22:20:59 update: removing 韩安旭 - 花酒.flac
+2025-06-27T22:20:59 update: removing 添儿呗 - 花落旧梦凉.flac
+2025-06-27T22:20:59 update: removing Nop吕月榕 - 良人当归.flac
+2025-06-27T22:20:59 update: removing 五音Jw - 步戏.flac
+2025-06-27T22:20:59 update: removing 戚琦 - 美周郎.flac
+2025-06-27T22:20:59 update: removing 林小珂 - 美人画卷.flac
+2025-06-27T22:20:59 update: removing 赵方婧 - 缘续.flac
+2025-06-27T22:20:59 update: removing 奡雪 - 红绡.flac
+2025-06-27T22:20:59 update: removing 花粥、王胜娚 - 出山.flac
+2025-06-27T22:20:59 update: removing 花僮 - 笑纳.flac
+2025-06-27T22:20:59 update: removing 裂天、玉璇玑 - 秦楼月.flac
+2025-06-27T22:20:59 update: removing 小乐哥（王唯乐） - 离别恨.flac
+2025-06-27T22:20:59 update: removing 胡夏、郁可唯 - 知否知否.flac
+2025-06-27T22:20:59 update: removing 少司命、霄磊 - 琵琶诉.flac
+2025-06-27T22:20:59 update: removing 曲肖冰 - 琉璃.flac
+2025-06-27T22:20:59 update: removing 平生青涯 - 献天缘.flac
+2025-06-27T22:20:59 update: removing 七叔（叶泽浩） - 燕无歇.flac
+2025-06-27T22:20:59 update: removing 琪大妈 - 游山恋 (DJlucky小阳).mp3
+2025-06-27T22:20:59 update: removing 略略略 - 清幽院.flac
+2025-06-27T22:20:59 update: removing 阿YueYue、戾格 - 沈园外.flac
+2025-06-27T22:20:59 update: removing 周深 - 江湖觅知音.flac
+2025-06-27T22:20:59 update: removing 小倩 - 此忆经年.flac
+2025-06-27T22:20:59 update: removing 指尖笑 - 此去经年.flac
+2025-06-27T22:20:59 update: removing Mukyo木西 - 梅雪念.flac
+2025-06-27T22:20:59 update: removing 镜予歌、陈亦洺、喧笑 - 晚夜微雨问海棠.flac
+2025-06-27T22:20:59 update: removing 麦小兜 - 故人泪.flac
+2025-06-27T22:20:59 update: removing 浮生梦 - 探窗.flac
+2025-06-27T22:20:59 update: removing 浅影阿 - 探故知 (超梦幻DJ版).mp3
+2025-06-27T22:20:59 update: removing 尹昔眠 - 我叫长安,你叫故里.flac
+2025-06-27T22:20:59 update: removing 清水er - 戏红妆.flac
+2025-06-27T22:20:59 update: removing 唐语霏 - 戏外戏.flac
+2025-06-27T22:20:59 update: removing 回音哥 - 戏外人.flac
+2025-06-27T22:20:59 update: removing 梁帅 - 戏中无人.flac
+2025-06-27T22:20:59 update: removing 白嘉峻 - 戏中人.flac
+2025-06-27T22:20:59 update: removing 郑鱼 - 怎叹.flac
+2025-06-27T22:20:59 update: removing 零一九零贰 - 忘川彼岸.flac
+2025-06-27T22:20:59 update: removing 鸾音社 - 归去来兮.flac
+2025-06-27T22:20:59 update: removing 苏熠鸣 - 弱水三千 (0.8x｜DJ苏熠鸣版).mp3
+2025-06-27T22:20:59 update: removing 丸子呦 - 广寒宫.flac
+2025-06-27T22:20:59 update: removing 洛先生 - 孤城.flac
+2025-06-27T22:20:59 update: removing 伦桑、张晓涵 - 字正腔圆.flac
+2025-06-27T22:20:59 update: removing 蔡鹤峰 - 娶.flac
+2025-06-27T22:20:59 update: removing 司南 - 夭娘.flac
+2025-06-27T22:20:59 update: removing 来一碗老于 - 天地似无情.flac
+2025-06-27T22:20:59 update: removing 赤羽 - 天下局.flac
+2025-06-27T22:20:59 update: removing 清水er - 大天蓬 (女生版).flac
+2025-06-27T22:20:59 update: removing 泥鳅Niko - 梨园叹.flac
+2025-06-27T22:20:59 update: removing DJ嗨嗨嗨 - 唐人恋曲.mp3
+2025-06-27T22:20:59 update: removing 韩潇Es - 叹秋暮.flac
+2025-06-27T22:20:59 update: removing 何以清尘 - 慕寒.mp3
+2025-06-27T22:20:59 update: removing 七叔（叶泽浩） - 半生雪.flac
+2025-06-27T22:20:59 update: removing 陈亦洺、尚辰、镜予歌 - 千秋迭梦.flac
+2025-06-27T22:20:59 update: removing DJ阿鹏 - 精卫 (remix).mp3
+2025-06-27T22:20:59 update: removing 花僮 - 公子你莫怪.flac
+2025-06-27T22:20:59 update: removing 排骨教主 - 入梦局.flac
+2025-06-27T22:20:59 update: removing 伯爵Johnny、唐伯虎Annie - 伯虎说 (feat.唐伯虎Annie).flac
+2025-06-27T22:20:59 update: removing 乔洋、周林枫 - 人间酒.flac
+2025-06-27T22:20:59 update: removing 七音盒 - 云深不知处.flac
+2025-06-27T22:20:59 update: removing 阿YueYue - 云与海.flac
+2025-06-27T22:20:59 update: removing 叶炫清 - 九张机.flac
+2025-06-27T22:20:59 update: removing HITA - 两情未许.flac
+2025-06-27T22:20:59 update: removing 黑崎子 - 东坡.flac
+2025-06-27T22:20:59 update: removing 小阿七 - 不谓侠.flac
+2025-06-27T22:20:59 update: removing Felicia蔡菲凡、RLY-MUSIC - 一曲断肠.flac
+2025-06-27T22:20:59 update: removing 慕寒、黄诗扶 - 一拜天地.mp3
+2025-06-27T22:20:59 update: removing 七叔（叶泽浩） - 一介布衣.flac
+2025-06-27T22:20:59 update: removing 业火苍云歌(纯歌版) - 音频怪物.mp3
+2025-06-27T22:20:59 update: removing 三月雨 - 洛天依Official.mp3
+2025-06-27T22:20:59 update: removing 薛涛笺 - Tacke竹桑、诗雪.mp3
+2025-06-27T22:20:59 update: removing 王力宏、谭维维 - 缘分一道桥.flac
+2025-06-27T22:20:59 update: removing 青衣 - W.K..mp3
+2025-06-27T22:20:59 update: removing 非鱼(少林&纯阳) - 五色石南叶、慕寒.mp3
+2025-06-27T22:20:59 update: removing 刘珂矣、赵允哲 - 半壶纱 (0.8x) (DJ版).mp3
+2025-06-27T22:20:59 update: removing 墨宝 古龙群侠传 - 河图.mp3
+2025-06-27T22:20:59 update: removing 魂归(天策) - 音频怪物.mp3
+2025-06-27T22:20:59 update: removing 飞花调（ft.五音Jw） - WH宇恒、五音Jw.mp3
+2025-06-27T22:20:59 update: removing 风颂天下 - 清漪.mp3
+2025-06-27T22:20:59 update: removing 风雪待归人 - W.K..mp3
+2025-06-27T22:20:59 update: removing 风月无边 - 晃儿.mp3
+2025-06-27T22:20:59 update: removing 风月令（《叶羽千华》专辑收录曲01） - IRiS七叶.mp3
+2025-06-27T22:20:59 update: removing 颜非 - 彦Jans.mp3
+2025-06-27T22:20:59 update: removing 须臾之客 - Braska.mp3
+2025-06-27T22:20:59 update: removing 青龙永夜 - 河图、音频怪物、林清弄、流浪的蛙蛙、李常超 (Lao乾妈)、云の泣.mp3
+2025-06-27T22:20:59 update: removing 露中生 - 不才.mp3
+2025-06-27T22:20:59 update: removing 雨霖铃 - 卡修Rui.mp3
+2025-06-27T22:20:59 update: removing 陈酒新茶令 - Assen捷&东篱.mp3
+2025-06-27T22:20:59 update: removing 阖眸烟云 - 东篱.mp3
+2025-06-27T22:20:59 update: removing 长相忆 - 慕寒、五色石南叶、Smile_小千、苏郁青.mp3
+2025-06-27T22:20:59 update: removing 长生诀 - 西瓜JUN.mp3
+2025-06-27T22:20:59 update: removing 醉狂草(丐帮) - 蔡翊昇.mp3
+2025-06-27T22:20:59 update: removing 酒情钟 - 伦桑.mp3
+2025-06-27T22:20:59 update: removing 逐鹿 - 东篱.mp3
+2025-06-27T22:20:59 update: removing 逆势择天 - 特曼.mp3
+2025-06-27T22:20:59 update: removing 适居山 - HITA.mp3
+2025-06-27T22:20:59 update: removing 这世上所有的歌 - 小曲儿.mp3
+2025-06-27T22:20:59 update: removing 贺新谣 - 银临、李蚊香、Tacke竹桑、知性的小方块、Aki阿杰、橙翼、云の泣、卡修Rui.mp3
+2025-06-27T22:20:59 update: removing 谪仙-橙光《沧海仙途》主题曲 - 伦桑.mp3
+2025-06-27T22:20:59 update: removing 谢却荼蘼 - 银临、慕寒.mp3
+2025-06-27T22:20:59 update: removing 谓我 - 小曲儿.mp3
+2025-06-27T22:20:59 update: removing 觅红 - 兔裹煎蛋卷.mp3
+2025-06-27T22:20:59 update: removing 蜀·御风 - 纯歌版（三国之蜀汉群像） - 祝贺、小魂、流浪的蛙蛙、文子轩、裂天、贰萬、落樱风、旧事年华.mp3
+2025-06-27T22:20:59 update: removing 落霞云归 - 慕寒.mp3
+2025-06-27T22:20:59 update: removing 莫待江湖老 - 小曲儿.mp3
+2025-06-27T22:20:59 update: removing 苍山负雪 - 慕寒.mp3
+2025-06-27T22:20:59 update: removing 花间事 - 慕寒.mp3
+2025-06-27T22:20:59 update: removing 花满楼 - 小魂.mp3
+2025-06-27T22:20:59 update: removing 舞霓裳 - 灰白.mp3
+2025-06-27T22:20:59 update: removing 老我青山 - 云雀Cream.mp3
+2025-06-27T22:20:59 update: removing 终岁风流人 - 钟祺源、卡修Rui.mp3
+2025-06-27T22:20:59 update: removing 红妆 - 排骨教主、papaw泡泡、南岐、Mr鱼、弹棉花的GG.mp3
+2025-06-27T22:20:59 update: removing 篱边秋 - 汐音社、横颜君.mp3
+2025-06-27T22:20:59 update: removing 笔墨山河千秋色 - 玄觞.mp3
+2025-06-27T22:20:59 update: removing 笔耕不辍 - 小曲儿.mp3
+2025-06-27T22:20:59 update: removing 童珺 - 油纸伞.flac
+2025-06-27T22:20:59 update: removing 窗前明月光 - 河图.mp3
+2025-06-27T22:20:59 update: removing 礼仪之邦 - HITA、安九、叶里.mp3
+2025-06-27T22:20:59 update: removing 知仙骨-《天官赐福》原创花怜同人曲 - 黑崎子.mp3
+2025-06-27T22:20:59 update: removing 眉心妆 - 甘璐.mp3
+2025-06-27T22:20:59 update: removing 相思引 - 董真.mp3
+2025-06-27T22:20:59 update: removing 盛世回首 - 慕寒、Mario.mp3
+2025-06-27T22:20:59 update: removing 百鬼浮世颂 - 漆柚.mp3
+2025-06-27T22:20:59 update: removing 白鹿志异 - 彦Jans.mp3
+2025-06-27T22:20:59 update: removing 画舫烟中浅 - Pig小优.mp3
+2025-06-27T22:20:59 update: removing 生死江湖 - 李常超 (Lao乾妈).mp3
+2025-06-27T22:20:59 update: removing 琵琶行 - 奇然、沈谧仁.mp3
+2025-06-27T22:20:59 update: removing 琅琊榜·赤血长殷 - 五色石南叶、慕寒、Smile_小千、KenZong.mp3
+2025-06-27T22:20:59 update: removing 王者【王者荣耀群像同人歌】 - 龙小葵、Assen捷、W.K.、老虎欧巴、忘月幽、根小八、文君也.mp3
+2025-06-27T22:20:59 update: removing 犬物语 - 柏凝.mp3
+2025-06-27T22:20:59 update: removing 牵丝戏 - 银临、Aki阿杰.mp3
+2025-06-27T22:20:59 update: removing 爱莲说 - 小曲儿.mp3
+2025-06-27T22:20:59 update: removing 爱殇 - 小时姑娘、龚骏.mp3
+2025-06-27T22:20:59 update: removing 燕无歇.MP3
+2025-06-27T22:20:59 update: removing 煮酒听雨 - 吾恩.mp3
+2025-06-27T22:20:59 update: removing 烽火作红妆 - 文兮_、克丽斯、AYQ、玫瞳.mp3
+2025-06-27T22:20:59 update: removing 热爱至上 - 河图、音频怪物、慕寒、HITA、小爱的妈、Aki阿杰、蔡翊昇、橙翼.mp3
+2025-06-27T22:20:59 update: removing 烟雨行舟 - 伦桑.mp3
+2025-06-27T22:20:59 update: removing 满城雪（燃情版）——《梦幻西游》电脑版剑侠客同人曲 - 萧忆情Alex、特曼、满汉全席.mp3
+2025-06-27T22:20:59 update: removing 湖心亭 - 小曲儿、蔡翊昇.mp3
+2025-06-27T22:20:59 update: removing 湖光水色调 - 戴荃.mp3
+2025-06-27T22:20:59 update: removing 游京（dj×0.9降调）｜“我走在长街中，听戏子唱京城”.mp3
+2025-06-27T22:20:59 update: removing 涉夜无咎（鸦青作曲） - 雨洛.mp3
+2025-06-27T22:20:59 update: removing 浮生祭 - 小曲儿.mp3
+2025-06-27T22:20:59 update: removing 浮云生死 - 小曲儿、小魂.mp3
+2025-06-27T22:20:59 update: removing 沾花拂墨 - 蔡翊昇.mp3
+2025-06-27T22:20:59 update: removing 江湖归来叙旧茶 - 五色石南叶、小千.mp3
+2025-06-27T22:20:59 update: removing 江湖少年(纯阳) - 东篱.mp3
+2025-06-27T22:20:59 update: removing 江湖小沙弥 - 奇然.mp3
+2025-06-27T22:20:59 update: removing 江湖大梦 - 慕寒.mp3
+2025-06-27T22:20:59 update: removing 江山雪(纯阳) - 小爱的妈.mp3
+2025-06-27T22:20:59 update: removing 江南语 - 小时姑娘、Pig小优.mp3
+2025-06-27T22:20:59 update: removing 水龙吟 - HITA.mp3
+2025-06-27T22:20:59 update: removing 棠梨煎雪 - 银临.mp3
+2025-06-27T22:20:59 update: removing 梨花薫雨 - Braska.mp3
+2025-06-27T22:20:59 update: removing 梦里梨花白 - Aki阿杰.mp3
+2025-06-27T22:20:59 update: removing 梦里偕老 - Aki阿杰.mp3
+2025-06-27T22:20:59 update: removing 栖枝 - 双笙（陈元汐）.mp3
+2025-06-27T22:20:59 update: removing 杯欢 - 东篱.mp3
+2025-06-27T22:20:59 update: removing 杏花弦外雨 - CRITTY、司夏.mp3
+2025-06-27T22:20:59 update: removing 杏花巷 - 灰白.mp3
+2025-06-27T22:20:59 update: removing 杀生 - 特曼.mp3
+2025-06-27T22:20:59 update: removing 本狐号妖不号仙 - 狐妖.mp3
+2025-06-27T22:20:59 update: removing 未见青山老 - 以冬.mp3
+2025-06-27T22:20:59 update: removing 未曾辞故人 - （记云梦双杰） - NL不分、小魂.mp3
+2025-06-27T22:20:59 update: removing 朝忆梨花暮忆雪 - 河图.mp3
+2025-06-27T22:20:59 update: removing 月华沉梦 - 慕寒.mp3
+2025-06-27T22:20:59 update: removing 晓以大梦 - 千是.mp3
+2025-06-27T22:20:59 update: removing 春风夏雨 - 五色石南叶.mp3
+2025-06-27T22:20:59 update: removing 春雪满肩人 - 周遭.mp3
+2025-06-27T22:20:59 update: removing 春梦.月落春荒 - Tacke竹桑.mp3
+2025-06-27T22:20:59 update: removing 昙骨 - 长安三月半.mp3
+2025-06-27T22:20:59 update: removing 明月舟 - 司夏、慕寒.mp3
+2025-06-27T22:20:59 update: removing 明月天涯 - 五音Jw.mp3
+2025-06-27T22:20:59 update: removing 时光胶囊 - 青丝.flac
+2025-06-27T22:20:59 update: removing 旧时风月 - 安神、司夏.mp3
+2025-06-27T22:20:59 update: removing 无故之秋 - 卡修Rui.mp3
+2025-06-27T22:20:59 update: removing 故梦 - 橙翼.mp3
+2025-06-27T22:20:59 update: removing 故人不散 - 醉雪、纱朵.mp3
+2025-06-27T22:20:59 update: removing 悟空 - 蔡翊昇.mp3
+2025-06-27T22:20:59 update: removing 徽墨说 - 萧忆情Alex.mp3
+2025-06-27T22:20:59 update: removing 循香阡陌 - 清黛半夏、落樱风.mp3
+2025-06-27T22:20:59 update: removing 御剑天涯（《御剑情缘》周年主题曲） - 满汉全席.mp3
+2025-06-27T22:20:59 update: removing 归一 - 泛音堂、吾恩、喵☆酱、小坠.mp3
+2025-06-27T22:20:59 update: removing 张晓棠 - 苏幕遮.flac
+2025-06-27T22:20:59 update: removing 异世谣·万世芬芳录 - 慕寒.mp3
+2025-06-27T22:20:59 update: removing 幸为天下客 - 萧忆情Alex、满汉全席.mp3
+2025-06-27T22:20:59 update: removing 巷雨梨花 - 涵昱.mp3
+2025-06-27T22:20:59 update: removing 山鬼 - Winky诗.mp3
+2025-06-27T22:20:59 update: removing 山水画意 - 慕寒.mp3
+2025-06-27T22:20:59 update: removing 少年熬至老 - 少恭、刘兆伦.mp3
+2025-06-27T22:20:59 update: removing 少年夜雨行 - 李蚊香、Braska.mp3
+2025-06-27T22:20:59 update: removing 小城谣 - 胡碧乔.mp3
+2025-06-27T22:20:59 update: removing 将卿 - 苏玮.mp3
+2025-06-27T22:20:59 update: removing 对弈 - 萧忆情、西瓜JUN、小坠、伦桑、妖扬、人衣大人、吾恩.mp3
+2025-06-27T22:20:59 update: removing 妖怪町奇谭 - 平纱落雁音乐团队、伦桑、小曲儿.mp3
+2025-06-27T22:20:59 update: removing 如玉如歌 - 东篱.mp3
+2025-06-27T22:20:59 update: removing 天局 - 小曲儿.mp3
+2025-06-27T22:20:59 update: removing 天地缓缓(纯阳) - 伦桑.mp3
+2025-06-27T22:20:59 update: removing 大荒往事 - Winky诗.mp3
+2025-06-27T22:20:59 update: removing 大梦 - 小曲儿.mp3
+2025-06-27T22:20:59 update: removing 夜中笺·无题 - 卡修Rui.mp3
+2025-06-27T22:20:59 update: removing 四时令 - Smile_小千、五色石南叶、慕寒、朱强.mp3
+2025-06-27T22:20:59 update: removing 喵万岁-橙光《如何征服心机喵》主题曲 - 橙光音乐、蔡翊昇.mp3
+2025-06-27T22:20:59 update: removing 咫尺相思 古剑奇谭同人原创 - 小曲儿、Walker、Aki阿杰、音频怪物、HITA、梦岚、富贵哥、小爱的妈、完美仙剑、.mp3
+2025-06-27T22:20:59 update: removing 君临天下 - 王朝.mp3
+2025-06-27T22:20:59 update: removing 双人行 - 西二.mp3
+2025-06-27T22:20:59 update: removing 又雪 - 五色石南叶、小千.mp3
+2025-06-27T22:20:59 update: removing 历书·乌衣 - Mario.mp3
+2025-06-27T22:20:59 update: removing 危年不祈——记小说《故千秋》纪长渊 - 封茗囧菌.mp3
+2025-06-27T22:20:59 update: removing 南柯梦 - 泥鳅Niko.mp3
+2025-06-27T22:20:59 update: removing 十里春风醉江南 - 竹庭、橙七、嫦綰、鸣吾.mp3
+2025-06-27T22:20:59 update: removing 十年一晌 - 慕寒.mp3
+2025-06-27T22:20:59 update: removing 北凉歌【雪中悍刀行】 - 鲁四月.mp3
+2025-06-27T22:20:59 update: removing 剑饮山河•剧情版 - 冬子、三无MarBlue、一君、玉璇玑、玄觞、炽天使、祝贺、双笙（陈元...汐、息九泱、无痕、青泉.mp3
+2025-06-27T22:20:59 update: removing 剑三群像•山河同誓 - 顾时笙、少年霜、上古呐（唐琳琳）、南偿、子樂tom、是惑惑呀、神小锦Hsu、兔裹煎蛋卷、混沌、山.mp3
+2025-06-27T22:20:59 update: removing 刹那芳华曲(圆满版) - 小爱的妈.mp3
+2025-06-27T22:20:59 update: removing 别赋 - 慕寒.mp3
+2025-06-27T22:20:59 update: removing 初雪 - 排骨教主.mp3
+2025-06-27T22:20:59 update: removing 初见便是永远 - Smile_小千.mp3
+2025-06-27T22:20:59 update: removing 初心共老 - 慕斯の小乖.mp3
+2025-06-27T22:20:59 update: removing 刀剑无梦 - (倚天屠龙记手游周年庆主题曲) - 玄觞、特曼.mp3
+2025-06-27T22:20:59 update: removing 凰鸣与共 - 流浪的蛙蛙、慕斯の小乖.mp3
+2025-06-27T22:20:59 update: removing 冠玉 - 叶里.mp3
+2025-06-27T22:20:59 update: removing 兰若词 - 小爱的妈.mp3
+2025-06-27T22:20:59 update: removing 倾尽天下 - 河图.mp3
+2025-06-27T22:20:59 update: removing 倾君沧溟恨(纯歌版) - 慕寒.mp3
+2025-06-27T22:20:59 update: removing 倦世间 - 蔡翊昇、萧忆情Alex.mp3
+2025-06-27T22:20:59 update: removing 何生枷锁 - 洪尘.mp3
+2025-06-27T22:20:59 update: removing 何日重到苏澜桥 - 泠鸢yousa.mp3
+2025-06-27T22:20:59 update: removing 何必诗债换酒钱 - Winky诗、佑可猫、丁丁RaJor、迟意、流仙、弹棉花的GG.mp3
+2025-06-27T23:09:19 player: played "周杰伦 - 霍元甲.flac"
+2025-06-28T23:38:05 player: played "周杰伦 - 霍元甲.flac"
+2025-06-28T23:42:18 player: played "山有木兮-橙光《人鱼传说之长生烛》主题曲 - 伦桑、橙光音乐.mp3"
+2025-06-28T23:44:54 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2025-06-28T23:45:38 player: played "双笙 (陈元汐) - 一壶春秋.flac"
+2025-06-28T23:49:04 player: played "花粥 - 归去来兮.flac"
+2025-06-28T23:53:06 player: played "唐六幺 - 七十二家酒楼.flac"
+2025-06-28T23:56:50 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2025-06-28T23:57:11 player: played "傲寒同学 - 不归人.flac"
+2025-06-29T00:02:24 player: played "胡歌 - 逍遥叹.flac"
+2025-06-29T00:05:59 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2025-06-29T00:06:18 player: played "小魂 - 关山酒.flac"
+2025-06-29T00:09:46 player: played "叶里 - 南山雪.flac"
+2025-06-29T00:12:40 player: played "谭晗 - 君不知.flac"
+2025-06-29T00:15:37 player: played "平生不晚 - 君知否.flac"
+2025-06-29T00:18:12 player: played "吴琼 - 故人叹.flac"

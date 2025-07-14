@@ -1,0 +1,44 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@11.4.2
+2 info using node@v24.4.0
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/ml/.local/share/nvim/mason/staging/pyright/.npmrc
+5 silly config load:file:/home/ml/.npmrc
+6 silly config load:file:/etc/npmrc
+7 verbose title npm install pyright@1.1.403
+8 verbose argv "install" "pyright@1.1.403"
+9 verbose logfile logs-max:10 dir:/home/ml/.npm/_logs/2025-07-11T17_12_08_475Z-
+10 verbose logfile /home/ml/.npm/_logs/2025-07-11T17_12_08_475Z-debug-0.log
+11 silly logfile start cleaning logs, removing 2 files
+12 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+13 silly logfile done cleaning log files
+14 silly idealTree buildDeps
+15 silly fetch manifest pyright@1.1.403
+16 silly packumentCache full:https://registry.npmjs.org/pyright cache-miss
+17 http fetch GET 200 https://registry.npmjs.org/pyright 747ms (cache updated)
+18 silly packumentCache full:https://registry.npmjs.org/pyright set size:undefined disposed:false
+19 silly placeDep ROOT pyright@1.1.403 OK for: @mason/pyright@1.0.0 want: 1.1.403
+20 silly fetch manifest fsevents@~2.3.3
+21 silly packumentCache full:https://registry.npmjs.org/fsevents cache-miss
+22 http fetch GET 200 https://registry.npmjs.org/fsevents 171ms (cache revalidated)
+23 silly packumentCache full:https://registry.npmjs.org/fsevents set size:182472 disposed:false
+24 silly placeDep node_modules/pyright fsevents@2.3.3 OK for: pyright@1.1.403 want: ~2.3.3
+25 silly reify moves {}
+26 silly audit bulk request { pyright: [ '1.1.403' ], fsevents: [ '2.3.3' ] }
+27 verbose reify failed optional dependency /home/ml/.local/share/nvim/mason/staging/pyright/node_modules/pyright/node_modules/fsevents
+28 silly reify mark deleted [
+28 silly reify   '/home/ml/.local/share/nvim/mason/staging/pyright/node_modules/pyright/node_modules/fsevents'
+28 silly reify ]
+29 http cache pyright@https://registry.npmjs.org/pyright/-/pyright-1.1.403.tgz 0ms (cache hit)
+30 silly tarball no local data for pyright@https://registry.npmjs.org/pyright/-/pyright-1.1.403.tgz. Extracting by manifest.
+31 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 192ms
+32 silly audit report {}
+33 http fetch GET 200 https://registry.npmjs.org/pyright/-/pyright-1.1.403.tgz 1340ms (cache miss)
+34 silly ADD node_modules/pyright
+35 silly ADD node_modules/pyright/node_modules/fsevents
+36 verbose cwd /home/ml/.local/share/nvim/mason/staging/pyright
+37 verbose os Linux 6.15.5-arch1-1
+38 verbose node v24.4.0
+39 verbose npm  v11.4.2
+40 verbose exit 0
+41 info ok

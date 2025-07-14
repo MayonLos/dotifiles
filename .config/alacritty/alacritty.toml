@@ -1,0 +1,50 @@
+
+# Alacritty 主力配置（已优化，推荐直接复制使用）
+[window]
+dimensions = { columns = 135, lines = 30 }       # 启动窗口大小
+padding = { x = 6, y = 4 }                       # 边距（建议适当增大，观感更好）
+dynamic_padding = true                           # 动态调整内边距
+opacity = 0.90                                   # 透明度（0.0~1.0，0.9是较高透明，0.6会非常透明）
+decorations = "none"                             # 无边框/标题栏，纯净体验
+title = "Alacritty"                              # 窗口标题
+
+[font]
+normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
+bold = { family = "JetBrainsMono Nerd Font", style = "Bold" }
+italic = { family = "JetBrainsMono Nerd Font", style = "Italic" }
+bold_italic = { family = "JetBrainsMono Nerd Font", style = "Bold Italic" }
+size = 12.0                                      # 字体大小
+offset = { x = 0, y = 0 }                        # 字体偏移，一般无需动
+glyph_offset = { x = 0, y = 0 }
+
+[colors.primary]
+background = "#1a1b26"
+foreground = "#a9b1d6"
+
+[colors.normal]
+black   = "#32344a"
+red     = "#f7768e"
+green   = "#9ece6a"
+yellow  = "#e0af68"
+blue    = "#7aa2f7"
+magenta = "#ad8ee6"
+cyan    = "#449dab"
+white   = "#787c99"
+
+[colors.bright]
+black   = "#444b6a"
+red     = "#ff7a93"
+green   = "#b9f27c"
+yellow  = "#ff9e64"
+blue    = "#7da6ff"
+magenta = "#bb9af7"
+cyan    = "#0db9d7"
+white   = "#acb0d0"
+
+[cursor]
+style = { shape = "Beam", blinking = "On" }      # 光标为细竖线并闪烁
+unfocused_hollow = true                          # 失焦时空心光标
+
+[terminal]
+osc52 = "CopyPaste"                              # 允许复制粘贴（OSC52，推荐）
+

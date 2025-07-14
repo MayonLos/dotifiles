@@ -1,0 +1,32 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@11.4.2
+2 info using node@v24.4.0
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/ml/.local/share/nvim/mason/staging/prettier/.npmrc
+5 silly config load:file:/home/ml/.npmrc
+6 silly config load:file:/etc/npmrc
+7 verbose title npm install prettier@3.6.2
+8 verbose argv "install" "prettier@3.6.2"
+9 verbose logfile logs-max:10 dir:/home/ml/.npm/_logs/2025-07-13T06_17_39_160Z-
+10 verbose logfile /home/ml/.npm/_logs/2025-07-13T06_17_39_160Z-debug-0.log
+11 silly logfile start cleaning logs, removing 2 files
+12 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+13 silly logfile done cleaning log files
+14 silly idealTree buildDeps
+15 silly fetch manifest prettier@3.6.2
+16 silly packumentCache full:https://registry.npmjs.org/prettier cache-miss
+17 http fetch GET 200 https://registry.npmjs.org/prettier 733ms (cache revalidated)
+18 silly packumentCache full:https://registry.npmjs.org/prettier set size:608248 disposed:false
+19 silly placeDep ROOT prettier@3.6.2 OK for: @mason/prettier@1.0.0 want: 3.6.2
+20 silly reify moves {}
+21 silly audit bulk request { prettier: [ '3.6.2' ] }
+22 http cache prettier@https://registry.npmjs.org/prettier/-/prettier-3.6.2.tgz 0ms (cache hit)
+23 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 213ms
+24 silly audit report {}
+25 silly ADD node_modules/prettier
+26 verbose cwd /home/ml/.local/share/nvim/mason/staging/prettier
+27 verbose os Linux 6.15.5-arch1-1
+28 verbose node v24.4.0
+29 verbose npm  v11.4.2
+30 verbose exit 0
+31 info ok

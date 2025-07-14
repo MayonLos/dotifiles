@@ -1,0 +1,53 @@
+sw_volume: 80
+audio_device_state:1:PulseAudio Output
+audio_device_state:1:Visualizer feed
+state: pause
+current: 11
+time: 142.915
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0
+mixrampdelay: -1
+lastloadedplaylist: 
+playlist_begin
+0:周杰伦 - 霍元甲.flac
+1:山有木兮-橙光《人鱼传说之长生烛》主题曲 - 伦桑、橙光音乐.mp3
+2:双笙 (陈元汐) - 一壶春秋.flac
+3:花粥 - 归去来兮.flac
+4:唐六幺 - 七十二家酒楼.flac
+5:傲寒同学 - 不归人.flac
+6:胡歌 - 逍遥叹.flac
+7:小魂 - 关山酒.flac
+8:叶里 - 南山雪.flac
+9:谭晗 - 君不知.flac
+10:平生不晚 - 君知否.flac
+11:吴琼 - 故人叹.flac
+12:唐伯虎Annie - 寒山谁煮茶.flac
+13:吕炸炸 - 情字煮酒.flac
+14:糯米Nomi - 情字难.flac
+15:红格格 - 惊鸿一瞥.flac
+16:肥皂菌丨珉珉的猫咪丨 - 戏外戏.flac
+17:周林枫 - 戏子红妆.flac
+18:草帽酱 - 戏说.flac
+19:泽典 - 折枝花满衣.flac
+20:邓寓君(等什么君) - 春庭雪.flac
+21:海伦 - 游京.flac
+22:鹿瑶 - 游京 (女生戏腔版).flac
+23:海伦 - 游山恋.flac
+24:苏谭谭 - 游山恋 (戏腔女版).flac
+25:添儿呗 - 烟火人间.flac
+26:银临、Aki阿杰 - 牵丝戏.flac
+27:叶聪明 - 琴诀.flac
+28:奇然、沈谧仁 - 琵琶行.flac
+29:李常超（Lao乾妈） - 盗墓笔记·十年人间.flac
+30:郭聪明 - 盗墓笔记·十年人间.flac
+31:花粥、马雨阳 - 盗将行.flac
+32:闻人听書_ - 虞兮叹.flac
+33:叶里 - 谪仙.flac
+34:HITA - 赤伶.flac
+35:七叔（叶泽浩） - 踏山河.flac
+36:小阿七 - 酒家.flac
+playlist_end
